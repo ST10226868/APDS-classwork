@@ -6,7 +6,7 @@ import checkauth from "./check-auth.mjs";
 import express from "express"
 import cors from "cors"
 
-const PORT = 3001;
+const PORT = 3000;
 const app = express();
 
 const options = {
